@@ -1,7 +1,6 @@
 #https://zhuanlan.zhihu.com/p/111011337
 #pip3 install tushare
 #pip3 install lxml pandas requests bs4
-
 import tushare as ts
 #设置ts令牌
 ts.set_token('cc565ac3e2c4d369ce20ae45e771857fd622b85aeebe1d')
